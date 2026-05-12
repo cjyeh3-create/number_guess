@@ -1,6 +1,0 @@
-{
-  "name": "Guess Master",
-  "description": "一個精細磨練、響應式的 1-100 猜數字遊戲，具備歷史紀錄與自定義 Hook 管理邏輯。",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
